@@ -113,7 +113,7 @@ export default function HomePage() {
                 download
                 className="px-6 py-3 bg-teal-600 hover:bg-teal-700 rounded-xl shadow-lg shadow-teal-500/30 text-white font-semibold transition"
               >
-                Download CV
+                Download Cover Letter
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.05, y: -2 }}
@@ -122,7 +122,7 @@ export default function HomePage() {
                 download
                 className="px-6 py-3 bg-purple-700 hover:bg-purple-800 rounded-xl shadow-lg shadow-purple-500/30 text-white font-semibold transition"
               >
-                Download Cover Letter
+                Download CV
               </motion.a>
             </div>
           </div>
@@ -218,7 +218,7 @@ export default function HomePage() {
 
   <div className="flex justify-center gap-6 mb-8">
     <a
-      href="https://linkedin.com/in/your-linkedin"
+      href="https://www.linkedin.com/in/fofo-collin-moleme-a10b2337a"
       target="_blank"
       rel="noopener noreferrer"
       className="hover:text-blue-400 transition text-3xl"
@@ -226,7 +226,7 @@ export default function HomePage() {
       <FaLinkedin />
     </a>
     <a
-      href="https://wa.me/27653xxxxxxx"
+      href="https://wa.me/0646503212"
       target="_blank"
       rel="noopener noreferrer"
       className="hover:text-green-400 transition text-3xl"
