@@ -118,7 +118,7 @@ export default function HomePage() {
               <motion.a
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
-                href="/files/coolin_moleme_atp_cv.docx"
+                href="/files/collin_moleme_atp_cv.docx"
                 download
                 className="px-6 py-3 bg-purple-700 hover:bg-purple-800 rounded-xl shadow-lg shadow-purple-500/30 text-white font-semibold transition"
               >
