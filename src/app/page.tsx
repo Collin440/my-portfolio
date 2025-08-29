@@ -65,9 +65,9 @@ export default function HomePage() {
 
       <main className="relative z-10 px-6 py-16 max-w-7xl mx-auto">
 
-        {/* Header with social icons */}
+        {/* Social Media & Contacts icons */}
         <header className="flex justify-end gap-6 mb-16">
-          <a href="https://your-website.com" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 transition">
+          <a href="https://my-portfolio-3r0fyqh17-collin-molemes-projects.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 transition">
             <FaGlobe size={24} />
           </a>
           <a href="https://github.com/Collin440" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition">
@@ -109,7 +109,7 @@ export default function HomePage() {
               <motion.a
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
-                href="/files/fofo-cv.pdf"
+                href="/files/collin_cover_letter.docx"
                 download
                 className="px-6 py-3 bg-teal-600 hover:bg-teal-700 rounded-xl shadow-lg shadow-teal-500/30 text-white font-semibold transition"
               >
@@ -118,7 +118,7 @@ export default function HomePage() {
               <motion.a
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
-                href="/files/collin_cover_letter.docx"
+                href="/files/coolin_moleme_atp_cv.docx"
                 download
                 className="px-6 py-3 bg-purple-700 hover:bg-purple-800 rounded-xl shadow-lg shadow-purple-500/30 text-white font-semibold transition"
               >
